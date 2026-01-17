@@ -14,7 +14,7 @@ The objective of this project is to:
 
 Every EC2 instance must have the following tags at launch time:
 
-| Tag Key  | Example Value      |
+| Tag Key  |Example Value       |
 |----------|--------------------|
 | Name     | Onkar              |
 | emailID  | onkarlad@gmail.com |
@@ -31,7 +31,7 @@ These tags help in identification, accountability, and resource grouping.
 - AWS Management Console
 
 
-#### - Why Tagging Is Important
+#### - Why Tagging is Important
 
 - Cost tracking & billing
 - Ownership identification
@@ -138,7 +138,7 @@ This user is used to test tag enforcement and is not given administrator access.
 
 ## Step 4.Testing and Validation
 
-### Test Case 1: Lauch EC2 Instance WITHOUT Tags 
+## Test Case 1: Lauch EC2 Instance WITHOUT Tags 
 ### Action:
 - EC2 → Launch instance
 - Choose AMI & instance type
@@ -154,7 +154,7 @@ This user is used to test tag enforcement and is not given administrator access.
 Screenshot:
 ![alt text](<Img/Screenshot 2026-01-15 170423.png>)
 
-### Test Case 2: Launch EC2 Instance WITH Required Tags
+## Test Case 2: Launch EC2 Instance WITH Required Tags
 ### Action:
 - EC2 → Launch instance
 - Scroll to Tags
