@@ -17,7 +17,7 @@ The following tags must be provided while launching an EC2 instance:
 |---------|--------------------|
 | Name    | Onkar              |
 | emailID | onkarlad@gmail.com |
-| phoneNo | 7XXXXXXXXX         |
+| phoneNo | 99XXXXXXXX         |
 | Place   | Pune               |
 
 
